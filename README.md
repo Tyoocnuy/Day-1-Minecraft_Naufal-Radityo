@@ -3,16 +3,16 @@
 **Nama**: Naufal Radityo | 
 **Kelompok**: 17_Minecraft
 
-## 📝 Deskripsi Singkat
+## Deskripsi Singkat
 Repositori Rangkuman dan Insight Selama di Day 1 Expectik.
 
-## 🎯 Tujuan
+## Tujuan
 Repositori ini dibuat untuk memberikan rangkuman terkait materi yang sudah disampaikan hari ini, serta untuk memberikan insight/ilmu baru apa yang sudah kita dapat dari materi yang sudah dipaparkan pada day 1 ini.
 
 ---
 
-## 📚 A. Rangkuman Materi Day 1 – Git & Github
-Materi berfokus pada pemanfaatan AI melalui Prompt Engineering dan manajemen perubahan kode menggunakan Git dan GitHub[cite: 1]. Pembuatan instruksi AI yang efektif harus memiliki struktur yang mencakup :
+## A. Rangkuman Materi Day 1 – Git & Github
+Materi berfokus pada pemanfaatan AI melalui Prompt Engineering dan manajemen perubahan kode menggunakan Git dan GitHub. Pembuatan instruksi AI yang efektif harus memiliki struktur yang mencakup :
 - **Role** (Peran)
 - **Task** (Tugas)
 - **Context** (Konteks)
@@ -20,7 +20,7 @@ Materi berfokus pada pemanfaatan AI melalui Prompt Engineering dan manajemen per
 
 Struktur ini bertujuan agar menghasilkan respons yang relevan, terkontrol, dan minim bias. Selain itu, dibahas pula alur kerja Git yang mencatat perubahan secara bertahap dari Working Directory, masuk ke Staging Area, hingga disimpan di Repository. Siklus ini didukung dengan perintah esensial seperti `git init`, `git add`, `git commit`, hingga kolaborasi jarak jauh menggunakan `git push` dan `git pull`.
 
-## 💡 B. Poin Penting Materi Day 1 – Git & Github
+## B. Poin Penting Materi Day 1 – Git & Github
 - **Kendali Konteks AI / Prompting** : Penggunaan AI tidak sekadar melempar perintah, melainkan membutuhkan batasan teknis (konteks) yang jelas di dalam prompt agar kode yang dihasilkan tidak berlebihan.
 - **Setup Git & Github** : Diberikan step by step lengkap untuk membuat repositori melalui Git dan GitHub.
 - **Keuntungan Dari Prompt Engineering** : Keuntungannya dapat meningkatkan performa AI, mengurangi bias dan respon offensive, meningkatkan control dan predictability, dan memberikan pengalaman yang lebih baik.
