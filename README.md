@@ -9,6 +9,9 @@ Repositori Rangkuman dan Insight Selama di Day 1 Expectik.
 ## Tujuan
 Repositori ini dibuat untuk memberikan rangkuman terkait materi yang sudah disampaikan hari ini, serta untuk memberikan insight/ilmu baru apa yang sudah kita dapat dari materi yang sudah dipaparkan pada day 1 ini.
 
+## Dokumentasi
+![Uploading Dokumentasi 1.jpeg…]()
+![Uploading Dokumentasi 2.jpeg…]()
 ---
 
 ## A. Rangkuman Materi Day 1 – Git & Github
