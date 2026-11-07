@@ -11,7 +11,6 @@ Repositori ini dibuat untuk memberikan rangkuman terkait materi yang sudah disam
 
 ## Dokumentasi
 <img width="1280" height="720" alt="Dokumentasi 1" src="https://github.com/user-attachments/assets/b1dcdf6f-5716-4652-b74d-849ba480785b" />
-<img width="720" height="1280" alt="Dokumentasi 2" src="https://github.com/user-attachments/assets/990b07a2-5812-427d-815f-b6bbc751c7d1" />
 
 ---
 
