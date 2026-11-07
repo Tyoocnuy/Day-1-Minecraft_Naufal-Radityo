@@ -1,6 +1,6 @@
 # Day-1-Minecraft_Naufal-Radityo
 
-**Nama**: Naufal Radityo
+**Nama**: Naufal Radityo | 
 **Kelompok**: 17_Minecraft
 
 ## 📝 Deskripsi Singkat
