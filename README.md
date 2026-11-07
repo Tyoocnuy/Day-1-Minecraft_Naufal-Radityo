@@ -25,7 +25,7 @@ Struktur ini bertujuan agar menghasilkan respons yang relevan, terkontrol, dan m
 - **Setup Git & Github** : Diberikan step by step lengkap untuk membuat repositori melalui Git dan GitHub.
 - **Keuntungan Dari Prompt Engineering** : Keuntungannya dapat meningkatkan performa AI, mengurangi bias dan respon offensive, meningkatkan control dan predictability, dan memberikan pengalaman yang lebih baik.
 
-## 🗣️ C. Pendapat Pribadi Mengenai Day 1 Proyek Workshop
+## C. Pendapat Pribadi Mengenai Day 1 Proyek Workshop
 Proyek Day 1 yang difokuskan pada pembuatan Student Task Planner sangat membuka wawasan, terutama mengenai cara menjembatani konsep desain antarmuka (UI/UX) ke dalam realitas pengembangan yang serba cepat. Pendekatan Prompt Engineering terstruktur terbukti ampuh dalam menerjemahkan ide-ide desain menjadi susunan kode yang logis dan tidak keluar jalur. 
 
 Penjelasan dari kakaknya sudah mudah dipahami, walaupun mengalami sedikit kebingungan. Overall untuk proyek Day 1 ini sangat membantu sekali dan membuka wawasan baru bagi saya, sehingga saya tahu dimana saya akan menyimpan tugas dan proyek saya kedepannya. Selain itu juga jujur materi Prompt Engineering membantu saya dalam mengerjakan tugas, walau begitu penggunaan prompt harus digunakan secara bijak.
