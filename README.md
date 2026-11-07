@@ -10,8 +10,9 @@ Repositori Rangkuman dan Insight Selama di Day 1 Expectik.
 Repositori ini dibuat untuk memberikan rangkuman terkait materi yang sudah disampaikan hari ini, serta untuk memberikan insight/ilmu baru apa yang sudah kita dapat dari materi yang sudah dipaparkan pada day 1 ini.
 
 ## Dokumentasi
-![Uploading Dokumentasi 1.jpeg…]()
-![Uploading Dokumentasi 2.jpeg…]()
+<img width="1280" height="720" alt="Dokumentasi 1" src="https://github.com/user-attachments/assets/b1dcdf6f-5716-4652-b74d-849ba480785b" />
+<img width="720" height="1280" alt="Dokumentasi 2" src="https://github.com/user-attachments/assets/990b07a2-5812-427d-815f-b6bbc751c7d1" />
+
 ---
 
 ## A. Rangkuman Materi Day 1 – Git & Github
